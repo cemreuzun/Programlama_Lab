@@ -1,5 +1,13 @@
 # hash fonksiyonu
 # bu derste hash fonksiyonun mantığını sözel olarak işledik ve kod üzerinde sorular çözdük
+
+"""
+SIRASIYLA BUNLARI YAPILDI ->
+    >tablo oluştur (n boyutlu)
+    >tableSize belirle(sadece asal olabilir.)
+    >hash fonksiyonunu yaz(veri yapıları dersinden)
+"""
+
 import random
 def createMyHashTable(N):
     myTable = []
